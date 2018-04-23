@@ -150,6 +150,21 @@ button:hover {
 }
 
 /* ================================= 
+  Validation Messages
+==================================== */
+.email-message {
+	color: rgb(240, 240, 37);
+	margin: 0;
+	margin-bottom: 1rem;
+}
+
+.error-message {
+	color: rgb(250, 69, 69);
+	margin: 0;
+	margin-bottom: 1rem;
+}
+
+/* ================================= 
   Media Queries
 ==================================== */
 
